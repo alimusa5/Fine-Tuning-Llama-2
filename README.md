@@ -1,5 +1,5 @@
 # Fine-Tuning-Llama-2
-Fine tuning of Open Source Models (Llama-2, BART) using Google Colab
+Fine tuning an Open Source Model(Llama-2) using Google Colab
 
 ## Fine Tuning:
 
