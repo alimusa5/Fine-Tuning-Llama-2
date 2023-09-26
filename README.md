@@ -15,5 +15,5 @@ Performing a new skill or task that’s hard to articulate in a prompt
 
 **Dataset:**
 
-Any Dataset can be used according to the requirements. I have used the Alpaca dataset to fine tune it with Llama-2.
+Any Dataset can be used according to the requirements. I have used the Alpaca dataset in this case.
 
