@@ -7,11 +7,11 @@ Fine-tuning refers to the process of taking a pre-trained model (a model trained
 
 **Use cases:**
 
-Setting the style, tone, format, or other qualitative aspects
-Improving reliability at producing a desired output
-Correcting failures to follow complex prompts
-Handling many edge cases in specific ways
-Performing a new skill or task that’s hard to articulate in a prompt
+Setting the style, tone, format, or other qualitative aspects.
+Improving reliability at producing a desired output.
+Correcting failures to follow complex prompts.
+Handling many edge cases in specific ways.
+Performing a new skill or task that’s hard to articulate in a prompt.
 
 **Dataset:**
 
